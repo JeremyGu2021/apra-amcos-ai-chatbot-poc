@@ -2,9 +2,10 @@ import json
 import os
 from typing import Dict, List
 import boto3
+from openai import OpenAI
 
 
-prompt_template = """Answer in more than 500 words to the following QUESTION based on the CONTEXT given.
+prompt_template = """Answer in more than 300 words to the following QUESTION based on the CONTEXT given.
 If you do not know the answer and the CONTEXT doesn't contain the answer truthfully say "I don't know".
 
 CONTEXT:
@@ -81,3 +82,18 @@ def format_messages(messages: List[Dict[str, str]]) -> List[str]:
 def print_messages(prompt: str, response: str) -> None:
     bold, unbold = '\033[1m', '\033[0m'
     print(f"{bold}> Input{unbold}\n{prompt}\n\n{bold}> Output{unbold}\n{response[0]['generated_text']}\n")
+
+
+openAI_client = OpenAI(
+    api_key='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',
+)
+
+def query_openai_api(messages):
+    response = openAI_client.chat.completions.create(
+        model="gpt-3.5-turbo",  # Choose the appropriate model
+        messages=messages,
+        temperature=0.7,
+        max_tokens=500,
+    )
+    # print('response', response)
+    return response.choices[0].message.content

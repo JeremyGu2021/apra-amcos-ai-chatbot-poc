@@ -1,7 +1,7 @@
 import json
 import time
 from pinecone import Pinecone
-from sagemaker_utils import prompt_template, sagemaker_runtime, get_text_embedding, parse_text_embedding_response, parse_pinecone_response, print_messages, format_messages, get_llm_generation
+from sagemaker_utils import prompt_template, sagemaker_runtime, query_openai_api, get_text_embedding, parse_text_embedding_response, parse_pinecone_response, print_messages, format_messages, get_llm_generation
 
 endpoint_name = 'jumpstart-dft-hf-textembedding-all-minilm-l6-v2-new'
 
@@ -38,20 +38,30 @@ def handler(event, context):
     context_str = '\n'.join(parse_pinecone_response(pinecone_query_response)) 
     text_input = prompt_template.replace("{context}", context_str).replace("{question}", user_message)
 
+    # dialog = [{"role": "user", "content": f"{text_input}"}]
+    # prompt = format_messages(dialog)
+    # payload = {"inputs": prompt, "parameters": {"max_new_tokens": 500, "top_p": 0.9, "temperature": 0.6}}
+    # response = get_llm_generation(payload)
+
+    # end_time = time.time()
+    # elapsed_time = end_time - start_time
+
+    # print_messages(prompt, response)
+
+  
+
     dialog = [{"role": "user", "content": f"{text_input}"}]
-    prompt = format_messages(dialog)
-    payload = {"inputs": prompt, "parameters": {"max_new_tokens": 500, "top_p": 0.9, "temperature": 0.6}}
-    response = get_llm_generation(payload)
+    openai_content = query_openai_api(dialog)
+    print('openai_content', openai_content)
 
     end_time = time.time()
     elapsed_time = end_time - start_time
-
-    print_messages(prompt, response)
+    # Step 4 - query OpenAI with context
     print(elapsed_time)
 
     return {
         'statusCode': 200,
-        'body': json.dumps({ "response": json.dumps(response, default=lambda o: o.__dict__), "elapsed_time": elapsed_time})
+        'body': json.dumps({ "response": openai_content, "elapsed_time": elapsed_time})
     } 
 
 
