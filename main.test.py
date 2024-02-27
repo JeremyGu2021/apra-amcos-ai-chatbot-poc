@@ -1,4 +1,5 @@
 import json
+import os
 import time
 from pinecone import Pinecone
 from sagemaker_utils import prompt_template, sagemaker_runtime, get_text_embedding, parse_text_embedding_response, parse_pinecone_response, print_messages, format_messages, get_llm_generation
@@ -17,7 +18,7 @@ embeddings = parse_text_embedding_response(query_response)
 
 # Step 2 - query Pinecore for matching
 # Initialize Pinecone environment
-api_key = "19ff39f1-6252-456e-a6ca-a257faa2df8b"
+api_key = os.getenv('PINECONE_API_KEY')
 pc = Pinecone(api_key=api_key)
 
 # Connect to an existing Pinecone index
