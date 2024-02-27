@@ -1,0 +1,24 @@
+Topic:
+Payments – How to get paid as an Electronic Writer
+
+Text and links from the website:
+https://www.apraamcos.com.au/music-creators/member-resources/guides/how-to-get-paid-as-a-dance-and-electronic-writer
+We’re now collecting data from many sources to ensure our royalty payments to dance, and electronic writers are as accurate as possible.
+Here are some tips to maximise your earnings: If you are a DJ, you need to complete Performance Reports to get paid for playing your original works. This is done by logging in to your APRA AMCOS account and telling us when, where and what you’ve played during your set. It is appreciated if you include all the tracks you have played when you submit your Reports.
+Don’t forget that you must first register your original works before you can submit a Performance Report, and that remixes are not automatically eligible for registration.
+Music Recognition Technology (MRT) is a tool
+– like Shazam, Music ID and Soundhound – where music is digitally fingerprinted and analysed using algorithms. APRA uses Dutch service DJ Monitor in nightclubs throughout Australia to recognise what DJs play. Tracks played are then reported to APRA and affiliated international performing rights organisations so they can pay writers for the performance of their works.
+To maximise the chances of your music being identified if it’s played in an MRT venue, you should register for a DJ Monitor Uploader Account using your APRA membership number and upload your recordings.
+Direct Metadata Collection is different to MRT, in that it reads metadata directly from the DJ decks. APRA has been working with Pioneer DJ to install their KUVO technology in nightclubs around the country, to ensure more accurate distributions to dance and electronic writers. Because KUVO simply reads metadata as it’s stored on memory devices, the key to maximising matches is clean metadata on all your digital files. Please ensure title, writer/composer, artist/performer and ISRC (International Standard Recording Code) information is correctly labelled.
+For more information about the ISRC system, or to apply for an ISRC for your recordings, please email isrc@aria.com.au or visit the ARIA site.
+
+Text from the Mega Book
+If you're using a platform to make your beats and samples available for other people to licence, ensure that the terms and conditions of the website/platform allow for those who use your beats to credit you.
+We encourage you to thoroughly read through the terms and conditions within these websites as some can clearly state clauses that can result in you giving up your rights. If you ever need help understanding what you're signing up for, we encourage you to contact the Arts Law Centre of Australia. If you wish to claim a share of royalties for your remix, you will always need to obtain the written permission from the owners of the original song. The original owners may be songwriters, music publishers or both. If permission is granted for you to claim a percentage of royalties for your remix, you should email us a copy of this permission along with your remix registration details.
+You can register a remix with us after you've obtained written permission from the owners of the original song, and if the remix is original enough to be considered a new musical work. The original owners may be songwriters,
+music publishers or both. If the copyright owner of the original song does not grant permission for you to claim royalties for your remix, you will not be able to register your remix with us.
+Once you have obtained permission and all copyright owners agree on the ownership splits, email us a copy of this permission, along with your remix registration details.
+
+Videos Completed
+How to sell and register your Beats:  https://www.youtube.com/watch?v=GQE177tAAno
+Can producers earn royalties?  https://youtu.be/NlpEA0KvytA?si=ov2vZNRQyfiSkK5p

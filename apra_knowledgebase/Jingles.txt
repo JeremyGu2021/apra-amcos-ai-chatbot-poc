@@ -1,0 +1,50 @@
+Topic:
+Jingles
+
+Text and links from the website:
+https://www.apraamcos.com.au/about/help/faqs?faqs%5Bmenu%5D%5Bcategories.lvl0%5D=Reporting+jingles&faqid=126733 
+How does the Jingle system work?
+We use two types of music use reporting for jingle distributions -
+Music recognition technology (for jingles broadcast on Australian TV and radio in Sydney, Melbourne, Brisbane, Adelaide & Perth; New Zealand radio in Auckland, Christchurch & Wellington; and New Zealand TV in Auckland). Upload the audio associated with your jingles in the Writer Portal.
+Jingle self-reporting form (for jingles broadcast in all other areas). If your ad is only played in these non-metro areas, you will need to self- report via the Jingle reporting (domestic)
+form.
+What audio should I be uploading?
+If your jingles are broadcast on TV or radio metro areas, you should upload audio files when you register your jingles works in the Writer Portal. You can also add audio files to works later. The audio you need to upload is the part of the ad that contains your work. If the jingle has a tag line from another composer, you must edit this out before uploading your part of the jingle.
+If a new sound recording is made for an advertisement (e.g. a sound-a-like, a new arrangement, change of lyrics – think 'The Good Guys' based on 'Good Vibrations' or 'I Like Bing Lee' based on 'I Like Chinese') then it is crucial that the new recording is uploaded (after undertaking any necessary registration steps including obtaining permission from the original writers). This is because the audio fingerprint of the new recording will most likely be substantially different to previous recordings of the musical work.
+We recommend your audio files are compressed to mp3s at 128kbps to increase upload speed. Uncompressed WAV files can take much longer to upload because of their size. What happens if I don't upload any audio?
+Our jingle system relies on members registering their jingles and uploading the audio in the Writer Portal. Jingle royalty payments are dependent on this registration and audio uploading process.
+Do I have to upload all jingle audio, or only commissioned jingles?
+For APRA AMCOS purposes, we classify a ‘jingle’ as any music used in an advertising context. Please ensure that all music that is used in advertisements, both commissioned and non-commissioned works, are registered and uploaded in the Writer Portal.
+What if I have multiple works in one jingle?
+Where multiple works are used in one jingle, only the audio related to your own work/s should be uploaded. Please edit the audio to ensure this is the case and attach the audio to the corresponding jingle registration.
+Which version of my ad should I upload?
+If possible, upload the original music mix used in the ad without any of the ad voice overs.
+This is enough for our music recognition technology to identify the jingle, even with different voice overs. If you don’t have the original music mix used in ad, then you will need to upload all the different versions of that ad with alternative voice overs.
+What if music recognition technology can't match my work?
+Our music recognition technology uses retro- matching jingles cycles.
+This means that our music recognition technology provider, Soundmouse, will re- attempt recognition for any unrecognised tracks after three, six, twelve, twenty-four and thirty-six months from the first attempt.
+What if my jingle has been re-recorded?
+If your jingle has been re-recorded, it is crucial that you upload the new recording used in the actual ad. The music recognition technology used generates a fingerprint from the audio file. Therefore, always upload the specific recording used each time there’s a re-record.
+What if I don't have an audio file for my jingle?
+If you've unsuccessfully exhausted every avenue to source the audio for your jingle, you should contact us, and we'll investigate what options are available.
+What if my recording is pitched or has a time shift?
+Our music recognition technology provider, Soundmouse, has informed us that it's algorithm can cope with pitch/time shifting. However, if you can obtain a copy of the altered recording, we recommend you upload that version anyway.
+What if I've already uploaded a full ad, including the tag line of someone else's work?
+Please provide us with a list of these audio files. You must include details about:
+The unique audio ID – note the default is the file name.
+The original file name (in many cases it will be the same as the default).
+Corresponding JG
+Removal requests should be sent via email. You must then re-upload your jingle, ensuring that only that part of the ad with your music is uploaded.
+
+Text from the Mega Book
+Jingles are works that will be used in advertising and for other commercial uses. REGISTERING A JINGLE
+The jingle registration requires you to add audio as it is necessary for matching purposes. You should attach all versions of the ad in use and can include more after the initial registration has been made. The audio file example must contain the part of the ad that features your work. If the jingle has a tag line from another composer, you must edit this out before uploading your part of the jingle.
+Domestic jingle performances are reported in two ways. By:
+Music recognition technology (for jingles broadcast on Australian TV and radio in Sydney, Melbourne, Brisbane, Adelaide & Perth; New Zealand radio in Auckland, Christchurch & Wellington; and New Zealand TV in Auckland).
+Jingle self-reporting form (for jingles broadcast in all other areas). Please note, if your jingle is only played in these non-metro areas, you will need to self-report via the Jingle reporting (domestic) form. The form can be found on our website and must be submitted before July 31st of each year. Provide as much information as possible about your jingle. The company using your jingle can provide this information which includes the length of jingle, client name, product title/what is being advertised and the types of broadcasts used (radio, TV, online etc).
+
+Text from Live Chat
+APRA AMCOS currently pays royalties for metropolitan use of music used in radio and television advertisements (jingles), via our OPUS system.
+This system identifies uploaded jingle audio submitted by members, by using music recognition technology. OPUS jingle royalties are paid on a per performance basis and are made quarterly.
+For music used in jingles that are performed outside of the EDS areas, self-reported domestic jingle forms are received from members for payment in our November distribution of royalties.
+

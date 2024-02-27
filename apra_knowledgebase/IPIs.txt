@@ -1,0 +1,26 @@
+Topic:
+IPI’s
+
+Text and links from the website:
+https://www.apraamcos.com.au/search?site%5Bquery%5D=IPI
+The IPI system is a database that stores all global unique identification of right holders acting across multiple creation classes (musical work, literary work, work of art, etc.), assuming different roles (musical creator, film director, author of fine art, etc.), and owning
+all rights (performing right, reproduction right, radio broadcast right, etc.), determined by each creation class they deal with.
+Is the IPI system an APRA AMCOS database? No, the IPI system is designed, developed, and operated by our international affiliate SUISA and is the backbone administration tool for all collective, intellectual property protection organisations.
+When you become an elected member of APRA AMCOS an 11-digit IPI number will be assigned to you.
+You can find your IPI in the app or Writer Portal in your Account. You can also find your IPI number in the acknowledgement of membership email you receive from APRA AMCOS once you've become a member.
+IPI is the acronym for Interested Parties Information.
+An IPI is a unique 9–11-digit number that identifies creative right holders as members of collective societies. This number is yours for life when you join APRA AMCOS, even if you join another collecting society or transfer your membership.
+
+Text from the Mega Book
+IPI is the acronym for Interested Parties Information.
+An IPI is a unique 11-digit number that identifies creative right holders as members of collective societies. This number is yours for life when you join APRA AMCOS, even if you join another collecting society or transfer your membership. An IPI number identifies a songwriter as a unique individual copyright owner. Copyright collecting societies all around the world use the IPI number to identify all writers individually.
+When you become a member of APRA AMCOS an 11-digit IPI number will be assigned to you. You can find your IPI in the app or Writer Portal in ‘My Account’. You can also find your IPI number in the acknowledgement of membership email you receive from APRA AMCOS once you've become a member.
+Some of our foreign affiliates use a CAE number which is 9 digits long. A CAE is an older format of the IPI. These numbers have the same purpose. If you need to provide your CAE, simply leave out the first two digits of your IPI.
+The IPI system is a database that stores all global unique identification of right holders acting across multiple creation classes (musical work, literary work, work of art, etc.), assuming different roles (musical creator, film director, author of fine art, etc.), and owning all rights (performing right, reproduction right, radio broadcast right, etc.), determined by each creation class they deal with.
+The IPI system is designed, developed, and operated by our international affiliate SUISA and is the backbone administration tool for all collective, intellectual property protection organisations.
+
+Text from Live Chat
+An IPI is a unique 9–11-digit number that identifies creative right holders as members of collective societies.
+This number is yours for life when you join APRA AMCOS, even if you join another collecting society or transfer your membership.
+You can find your IPI in the App or web Portal in the Account section.
+

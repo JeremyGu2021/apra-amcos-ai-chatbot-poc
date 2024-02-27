@@ -1,0 +1,23 @@
+Topic:
+ISRC’s
+
+Text and links from the website:
+https://www.apraamcos.com.au/search?site%5Bquery%5D=ISRC
+The International Standard Recording Code (ISRC) is how your sound recordings and music video recordings are recognised wherever and whenever they're played. Adding your ISRCs to your work's registration details makes it easier for us to get you royalties quickly and accurately. However, an ISRC is not a compulsory requirement for an APRA work registration.
+APRA AMCOS does not issue ISRCs, ARIA does. To find out more or apply for an ISRC, please email isrc@aria.com.au or visit the ARIA website.
+
+Text from the Mega Book
+ISRC is the acronym for International Standard Recording Code. An ISRC identifies a recording of a song. Only one registration is required for each song however, multiple ISRCs can be added to a single song registration. This way, every time a different recorded version of the song is performed, they all match to the single existing registration.
+The ISRC is usually embedded into the master. If you’re releasing digitally, your aggregator or your digital distributor can also embed that information for you before they publish it on their streaming platforms.
+You may have multiple ISRCs attached to one APRA registration because you may have different versions of the song including an album version, radio edits, dance versions, acoustic versions, versions for Spotify, Facebook, and YouTube. Each version will have its own ISRC identifier.
+APRA AMCOS does not issue ISRCs, ARIA does. To find out more or apply for an ISRC, please email isrc@aria.com.au or visit the ARIA website.
+The ISRC code is not mandatory. You can add it later if you choose or you don’t have to add it at all. Our members may have written many songs that they haven’t recorded but have performed live. You also have the option to add multiple ISRC’s to one work.
+
+Text from Live Chat
+An International Standard Recording Code (ISRC) is the international identification system for sound recordings and music video recordings.
+It provides the means to automatically identify recordings for royalty payments. APRA AMCOS does not issue ISRCs.
+To apply for an ISRC or for more information about the ISRC system please contact the Australian Recording Industry Association (ARIA) by email isrc@aria.com.au
+
+Videos Completed
+What is an ISRC?
+https://youtu.be/r__GVL-l7nw

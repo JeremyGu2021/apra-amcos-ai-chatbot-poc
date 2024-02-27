@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  chatbot:
+    image: 635773515765.dkr.ecr.ap-southeast-2.amazonaws.com/apra-amcos-chatbot-sagemaker-poc 
+    ports:
+      - "5000:8080"
+    platform: linux/amd64
+    environment:
+      PINECONE_API_KEY: 19ff39f1-6252-456e-a6ca-a257faa2df8b
+      OPENAI_API_KEY: LLXVEuEM3HM3w2JAO3KvtQICnkyQ7T94K85UOfKk
+      AWS_REGION: "ap-southeast-2"
+      HUGGINGFACEHUB_API_TOKEN: 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
+      AWS_ACCESS_KEY_ID: ASIAZIBYN672243L5J6G
+      AWS_SECRET_ACCESS_KEY: HH9nqjUdz8zVZaQprzkqemdPL5mQqhUDaRFjqs8C
+      AWS_SESSION_TOKEN: "FwoGZXIvYXdzEP7//////////wEaDBJL1htlwvN0iaBB0yKOApt2vZMgEGTLgajdkxYP+bIIwK6CE/fIr4DyC7vCwRltramTibWKY/tJMr/ADu0SdB0khzxfIf2M/A0MKImJ1PHoOiir1oO9j5sbjOYIbpiq5XHsx6OsmiN+Yt3yt2Cb+uNNiUr5rJNtR/Q54/YI+t/3hwHMA81AU2KgOQAg7ZnEAMN5Y3hFlpl57gQWWeyueZohjYb+8jQPY4AMOPBA96GZyQ9pz0Z1UsXrI7eYU7TCmagJf0XdNv0keoWRBkfaD+WW+lBllGyj4nXjYcM9oMa+bs9m1hxm2JxLbvHTDzkhXgT8ZU1JqMlQ5+MlnC2ojLHYxHNWqloCAv42IHJHxKxrL+gR47cJns8HruTSUSjlr/euBjIrai8owmHzod6BY0DzFg8pb+NRslo2jrFn9TgdoWwVqgnGwnS2iot+UgAGCw=="
+      

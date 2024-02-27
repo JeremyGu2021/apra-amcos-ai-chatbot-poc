@@ -1,0 +1,12 @@
+Topic:
+ISWC’s
+
+Text and links from the website:
+https://www.apraamcos.com.au/about/help/faqs?faqs%5Bmenu%5D%5Bcategories.lvl0%5D=Music%20creators&faqid=281511
+The ISWC (International Standard Musical Work Code) is a unique, permanent, and internationally recognised reference number to identify musical works. This identification number is linked to other valuable metadata for the work such as work title, creators, performers, and any publishers. The ISWC distinguishes your musical work from other compositions around the world. An ISWC consists of the letter “T” followed by 9 digits plus a “check digit” to protect the ISWC against allocation errors. An example ISWC is T-034.524.680-1.
+
+Text from Live Chat
+The International Standard Musical Work Code (ISWC) is a unique, permanent, and internationally recognised reference number for the identification of musical works.
+APRA is recognised as an ISWC regional Agency.
+An ISWC is automatically allocated as part of the work registration process with APRA when 100% of the writers are identified and all writers have an Interested Party Information number.
+

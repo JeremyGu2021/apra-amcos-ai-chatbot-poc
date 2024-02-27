@@ -1,0 +1,58 @@
+Topic:
+Registering Works
+
+Text and links from the website:
+https://www.apraamcos.com.au/music-creators/member-resources/guides/co-writing-splits-and-registering-your-works
+Registering works with APRA AMCOS Once you have agreement on song split
+percentages, make sure you register the song with APRA AMCOS asap. This is called a work registration. You can quickly and easily register your works in the APRA AMCOS Writer Portal, or in the APRA AMCOS for Music Creators App.
+Don’t wait until the song has been played, performed, or released before this happens! You need to register your works before they can earn royalties. Can song splits be changed after a work is registered?
+After a song has been registered with us, we require permission from ALL the co-owners (co-writers AND publishers) to change it. This can prove almost impossible if relationships within bands or between co-writers have broken down.
+Work registration tips
+If you have a publishing agreement, your publisher needs to register the work, so don’t delay providing that information to your publisher.
+If you are registering a remix of a pre-existing song or composition, you will need permission from the copyright owners of the original song or composition before you register your remix.
+For co-writes, enter the percentage share for each co-writer of the song.
+If you need an International Standard Recording Code (ISRC), contact ARIA.
+If you make a mistake when you register a work – e.g.: you might have misspelt the title – you’ll need to contact us to make edits. Email worksreg@apra.com.au
+
+Text from the Mega Book
+You must register your songs and/or compositions through the APRA AMCOS Writer Portal or App to ensure you receive royalties when you work is played or performed.
+When you click register new work, select the type of work. There are three options: Jingle, Arrangement, and Regular Work (which is pretty much everything. Most song registrations APRA AMCOS receives are for regular works registrations).
+Your APRA AMCOS account is set up using your legal name however, you may operate under a pseudonym or as part of a group. You can include this information on  the registration form. This makes it easier for us to identify when your work is performed using your stage name.
+There is an option to add the duration of your song however, this is not mandatory. It's just another piece of information that helps us match performances of your work back to you. The duration needs to be logged in a 00:00 format.
+The ISRC code is not mandatory. You can add it later if you choose or you don’t have to add it at all. Our members may have written many songs that they haven’t recorded but have performed live. You also have the option to add multiple ISRC’s to one work.
+You must include details on:
+Who wrote the song (including any co-writers).
+Based on your login, the system will default to you as the songwriter. If you worked with a co-writer, you can add them to the song registration by providing their full name. You can
+also add their IPI number, though this is not required.
+The split of ownership shares amongst writers.
+If you are the only writer, this will be 100%. If you have a co-writer, the system will automatically calculate an even split. You can choose to input a manual split, which can be whatever you like as long as the total equals 100%.
+Contributor roles.
+Were contributors a composer (music writer), author (lyric writer) or composer/author (both)?
+Once your work has been registered, it goes to the works registration team who manually process all work registrations. Once our works team process your work, you could be issued an ISWC. This is a code that's used by collecting societies all around the world to identify the song itself (the composition not the recording). For this code to be obtained, all the co-writers must be members of a performing rights organisation.
+
+Text from Live Chat
+Here's how to register a new work: Log in to your account.
+At present general works can be registered in the writer portal and app.
+Enter information about the work you want to register, including:
+Work title
+Alternative title
+Performer
+Duration
+ISRC Only the green ticks above are required but give us any information you have.
+Add contributors (everyone involved in writing this work) by clicking the "add co-writers’ button”.
+You can list their:
+First Name
+Last Name
+IPI number (if known)
+Their role (from the following options):
+Composer - someone who has contributed to the music
+Author - someone who has contributed to the lyrics
+Composer/Author - someone who has contributed to both the music and the lyrics
+Finally add the percentage share for each co- writer of the work, you can choose an even split or manual split.
+This indicates how much they contributed to the work and what percentage of the copyright they own.
+Click 'Register Work' to finish, and you're done.
+Unless you are a jingle writer for radio or television, we do not require an audio upload for a work registration.
+At present we only use Music Recognition Technology for our jingle distributions. Should this change we'll let the entire membership know.
+
+Videos Completed
+How to register your works https://youtu.be/pKViXqnDZMc

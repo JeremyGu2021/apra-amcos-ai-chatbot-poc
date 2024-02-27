@@ -1,0 +1,65 @@
+Topic:
+Covers
+
+Text and links from the website:
+https://www.apraamcos.com.au/about/help/faqs?faqs%5Bmenu%5D%5Bcategories.lvl0%5D=Popular&faqid=63003
+I want to make a CD that includes covers of other people's songs. Do I need a licence? What about if I want to make it available on a digital service?
+Yes.
+You may need to obtain an AMCOS licence if you want to make a recording of a song composed by another writer.
+If you are recording a cover version of a work and wish to make it available on iTunes in the US, you are required to take out a licence with the Harry Fox Agency (AMCOS equivalent in the USA). Go to https://www.harryfox.com/#/license-music and head to their Songfile Mechanical Licensing tool. In cases where the Harry Fox Agency do not represent the work, you may be able to obtain a compulsory licence via RightsFlow – see www.rightsflow.com and head to the Limelight licensing area.
+Major digital service providers, including Spotify and Apple Music, are responsible for obtaining licenses directly for the content on their service, so you do not need to obtain a licence in these instances.
+In Australia, if you've first obtained a manufacturing licence from AMCOS, you can supply your recording to a digital service provider (DSP) such as iTunes, Apple Music, Spotify etc.
+APRA AMCOS licenses DSPs directly, and so royalties for downloads will be collected by APRA AMCOS on behalf of the rights holders.
+
+Text from the Mega Book
+You may need to obtain an AMCOS licence if you want to make a recording of a song composed by another writer. The licensing requirements for a cover song, or your own published works are determined by the format of release.
+If you want to release your own physical recording, you can take out an Audio Manufacture Licence to cover your use of the musical work. This licence allows for the reproduction of music for the following purposes:
+Retail Sale
+Sale at Performances
+Demo/audition
+Background music
+Educational
+This licence does not cover:
+The use of musical works in advertisements, sampling, or lyric changes. You will need permission directly from the copyright owner before you can reproduce the works for these purposes.
+The copying of sound recordings. Sound recordings are a separate protection under the Copyright Act. You usually need to obtain permission from the record company or recording artist who owns the rights in the recording.
+To make your songs available on Apple Music, Spotify, Google Play etc., you do not need an APRA AMCOS licence as APRA AMCOS licenses major Digital Service Providers (DSPs) within the territory of Australia & New Zealand, so royalties for downloads will be collected by APRA AMCOS on behalf of the rights holders. You will require the services of an aggregator (see the section on digital aggregators) to get your music on these services.
+If you are recording a cover version of a work and wish to make it available on iTunes in the US, you are required to take out a licence with the Harry Fox Agency (AMCOS equivalent in the USA). Go to https://www.harryfox.com/#/license-music and head to their Songfile Mechanical Licensing tool. In cases where the Harry Fox Agency do not represent the work, you may be able to obtain a compulsory licence via RightsFlow – see www.rightsflow.com and head to the Limelight licensing area.
+
+Text from Live Chat
+Sometimes you need a licence if you want to make money by releasing a cover version of someone else’s song online.
+If you want to make money from recording and releasing a cover version online, the same rules apply for getting permission and licensing. That is, sometimes you need a licence to do so.
+However, because it’s a cover version the amount and the way you receive money is different to what you may receive for your own songs.
+Money that APRA AMCOS collects from the licensing of streaming platforms like Spotify and Apple Music or download services like iTunes (royalties), is distributed to the APRA and AMCOS members whose works were used on those services.
+For cover versions, that money will go to the writers of those musical works (and their publishers). So, if you are not the writer, you won’t receive the songwriter royalties.
+If you release a cover version, you may be entitled to the royalties from the recording of that cover version. That is, online platforms
+like Spotify and Apple Music pay the owners of the recordings for the use of those recordings on their platforms.
+So, you can get royalties from your recording of a cover version. This flow of money is usually administered by record companies or digital aggregators. Money from YouTube videos that include cover versions will usually go to the writers of the original music work.
+APRA AMCOS already licenses major Digital Service Providers (DSPs) for copyright songs made available via these services within the territory of Australia & NZ.
+These include: Apple Music Spotify Amazon Soundcloud Tidal
+Deezer
+Therefore, you do not require a licence from APRA AMCOS to make covers of someone else’s musical work (that is, the written song), provided...
+...that the original musical work has been published (that is, it’s been previously released) and the cover version is true to the original work (that is, no changed lyrics, melody or character of the original work).
+In these circumstances you do not need a licence from the owner of that musical work to make and release a cover version online, even if you want to make money from that cover version available on these services.
+In the USA, the rules are different. In most cases, you will need a licence to be able to legally stream or make available downloads of your cover version in the USA.
+Physical & Digital releases are licensed separately. So, you will need to address the licensing requirements for both.
+To create a physical reproduction (CD, Vinyl etc) of cover songs you would require the APRA AMCOS Audio Manufacture Licence.
+This licence allows for the physical reproduction of music for the following purposes:
+Retail Sale
+Sale at Performances
+Demo/Audition
+Background Music
+Educational
+It does not cover:
+Works in advertisements
+Sampling
+Lyric changes
+Copying of Sound Recordings
+To create a pre-recorded music video for a cover song, there are 3 areas of copyright which need to be cleared.
+The first two are for the actual creation of the video. The third step is to then make the video available online.
+1. Synchronisation Rights
+2. Master Rights (Sound Recording Rights)
+3. Communication Rights
+APRA AMCOS does not provide licences for Synchronisation Rights & Master Rights, so you will need to obtain these directly from the copyright owners.
+
+Videos Completed
+Do you need permission to perform covers?  https://www.youtube.com/watch?v=IFrd7HO5fvo
